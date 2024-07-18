@@ -14,8 +14,8 @@
 ```sh
 pip install pandas
 
+###영어버전
 
-### 영어 버전
 
 ```markdown
 # Convert Text File to Excel File
@@ -26,7 +26,7 @@ This project provides a Python script that reads a text file of a specific forma
 
 To run this project, you need the following environment:
 
-- Python 3.x
+- Python 3.10.13
 - pandas library
 
 To install the necessary libraries, use the following command:
